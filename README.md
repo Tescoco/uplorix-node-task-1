@@ -140,7 +140,7 @@ TicketEase is a RESTful API and companion frontend (optional) for selling ticket
 4. **Postman/Insomnia collection** demonstrating all workflows.
 5. **Test coverage report** (e.g. Cobertura or HTML).
 
-##Important
+## Important
 
 - Export your database when you are done and commit it as well
 
